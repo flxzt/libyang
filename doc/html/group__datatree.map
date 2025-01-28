@@ -1,0 +1,19 @@
+<map id="Data Tree" name="Data Tree">
+<area shape="rect" id="Node000003" href="$group__datacompareoptions.html" title=" " alt="" coords="238,5,386,30"/>
+<area shape="rect" id="Node000010" href="$group__dataparseroptions.html" title=" " alt="" coords="244,55,380,79"/>
+<area shape="rect" id="Node000012" href="$group__dataprinterflags.html" title=" " alt="" coords="252,104,372,129"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="107,351,184,375"/>
+<area shape="rect" id="Node000009" href="$group__datatype.html" title=" " alt="" coords="245,153,379,178"/>
+<area shape="rect" id="Node000013" href="$group__datavalidationoptions.html" title=" " alt="" coords="236,203,388,227"/>
+<area shape="rect" id="Node000004" href="$group__diffmergeoptions.html" title=" " alt="" coords="232,252,392,277"/>
+<area shape="rect" id="Node000005" href="$group__diffoptions.html" title=" " alt="" coords="252,301,372,326"/>
+<area shape="rect" id="Node000008" href="$group__dnodeflags.html" title=" " alt="" coords="256,351,368,375"/>
+<area shape="rect" id="Node000006" href="$group__dupoptions.html" title=" " alt="" coords="232,400,392,425"/>
+<area shape="rect" id="Node000014" href="$group__implicitoptions.html" title=" " alt="" coords="240,449,385,488"/>
+<area shape="rect" id="Node000016" href="$group__lydhints.html" title=" " alt="" coords="242,512,382,550"/>
+<area shape="rect" id="Node000015" href="$group__lydnodehints.html" title=" " alt="" coords="235,575,389,599"/>
+<area shape="rect" id="Node000017" href="$group__lydvalhints.html" title=" " alt="" coords="247,624,377,649"/>
+<area shape="rect" id="Node000007" href="$group__mergeoptions.html" title=" " alt="" coords="243,673,381,698"/>
+<area shape="rect" id="Node000011" href="$group__pathoptions.html" title=" " alt="" coords="248,722,376,761"/>
+<area shape="rect" id="Node000002" href="$group__trees.html" title=" " alt="" coords="5,351,59,375"/>
+</map>

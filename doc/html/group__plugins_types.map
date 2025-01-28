@@ -1,0 +1,18 @@
+<map id="Plugins: Types" name="Plugins: Types">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,451,113,476"/>
+<area shape="rect" id="Node000002" href="$group__plugins_types_binary.html" title=" " alt="" coords="180,5,318,44"/>
+<area shape="rect" id="Node000003" href="$group__plugins_types_bits.html" title=" " alt="" coords="187,68,310,107"/>
+<area shape="rect" id="Node000004" href="$group__plugins_types_boolean.html" title=" " alt="" coords="175,131,322,169"/>
+<area shape="rect" id="Node000005" href="$group__plugins_types_decimal64.html" title=" " alt="" coords="174,193,324,232"/>
+<area shape="rect" id="Node000006" href="$group__plugins_types_empty.html" title=" " alt="" coords="180,256,318,295"/>
+<area shape="rect" id="Node000007" href="$group__plugins_types_enumeration.html" title=" " alt="" coords="174,319,324,357"/>
+<area shape="rect" id="Node000008" href="$group__plugins_types_identityref.html" title=" " alt="" coords="174,381,324,420"/>
+<area shape="rect" id="Node000009" href="$group__plugins_types_instanceid.html" title=" " alt="" coords="161,444,337,483"/>
+<area shape="rect" id="Node000010" href="$group__plugins_types_integer.html" title=" " alt="" coords="179,507,319,545"/>
+<area shape="rect" id="Node000011" href="$group__plugins_types_leafref.html" title=" " alt="" coords="179,569,319,608"/>
+<area shape="rect" id="Node000012" href="$group__plugins_types_simple.html" title=" " alt="" coords="173,632,324,671"/>
+<area shape="rect" id="Node000013" href="$group__plugins_types_string.html" title=" " alt="" coords="182,695,316,733"/>
+<area shape="rect" id="Node000015" href="$group__plugins_types_union.html" title=" " alt="" coords="182,757,316,796"/>
+<area shape="rect" id="Node000016" href="$group__plugins_types_xpath10.html" title=" " alt="" coords="180,820,318,872"/>
+<area shape="rect" id="Node000014" href="$group__plugintypestoreopts.html" title=" " alt="" coords="182,896,316,935"/>
+</map>

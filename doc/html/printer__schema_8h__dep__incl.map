@@ -1,0 +1,51 @@
+<map id="src/printer_schema.h" name="src/printer_schema.h">
+<area shape="rect" id="Node000001" title="Schema printers for libyang." alt="" coords="2263,5,2406,30"/>
+<area shape="rect" id="Node000002" href="$libyang_8h.html" title="The main libyang public header." alt="" coords="2288,78,2382,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="2337,46,2337,78,2332,78,2332,46"/>
+<area shape="rect" id="Node000003" href="$binary_8c.html" title="Built&#45;in binary type plugin." alt="" coords="5,158,179,182"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="2272,95,1875,99,1273,109,649,126,388,138,191,153,147,160,147,154,190,148,388,133,649,121,1273,103,1875,93,2272,89"/>
+<area shape="rect" id="Node000004" href="$bits_8c.html" title="Built&#45;in bits type plugin." alt="" coords="203,158,362,182"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="2272,95,1906,99,1357,109,791,127,554,139,375,153,334,160,334,154,374,148,553,133,791,121,1357,104,1906,94,2272,90"/>
+<area shape="rect" id="Node000005" href="$boolean_8c.html" title="Built&#45;in boolean type plugin." alt="" coords="387,158,570,182"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="2272,95,1452,113,951,130,741,141,583,153,538,160,537,154,582,148,741,136,951,125,1452,108,2272,90"/>
+<area shape="rect" id="Node000006" href="$date__and__time_8c.html" title="ietf&#45;yang&#45;types date&#45;and&#45;time type plugin." alt="" coords="594,151,747,189"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="2272,95,1533,112,1086,130,900,141,759,153,748,155,747,150,758,148,899,135,1086,124,1533,107,2272,90"/>
+<area shape="rect" id="Node000007" href="$decimal64_8c.html" title="Built&#45;in decimal64 type plugin." alt="" coords="771,158,968,182"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="2272,94,2058,97,1740,105,1364,123,1170,136,980,153,933,160,933,154,980,148,1170,131,1364,117,1739,100,2058,92,2272,89"/>
+<area shape="rect" id="Node000008" href="$empty_8c.html" title="Built&#45;in empty type plugin." alt="" coords="992,158,1165,182"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="2272,95,2086,98,1816,106,1500,124,1178,153,1136,160,1135,154,1177,148,1499,119,1815,101,2086,92,2272,89"/>
+<area shape="rect" id="Node000009" href="$enumeration_8c.html" title="Built&#45;in enumeration type plugin." alt="" coords="1190,158,1399,182"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="2272,96,1907,114,1661,130,1411,153,1363,160,1362,154,1410,148,1660,125,1906,108,2272,91"/>
+<area shape="rect" id="Node000010" href="$hex__string_8c.html" title="Built&#45;in hex&#45;string and associated types plugin." alt="" coords="1423,151,1572,189"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="2272,97,1975,113,1780,130,1584,153,1572,155,1572,150,1584,148,1780,125,1974,108,2272,91"/>
+<area shape="rect" id="Node000011" href="$identityref_8c.html" title="Built&#45;in identityref type plugin." alt="" coords="1596,158,1790,182"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="2272,100,2064,122,1803,153,1761,160,1760,154,1802,148,2063,116,2271,95"/>
+<area shape="rect" id="Node000012" href="$instanceid_8c.html" title="Built&#45;in instance&#45;identifier type plugin." alt="" coords="1815,158,2012,182"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="2273,106,1978,160,1977,154,2272,100"/>
+<area shape="rect" id="Node000013" href="$instanceid__keys_8c.html" title="ietf&#45;netconf edit&#45;config key metadata instance&#45;identifier keys predicate type plugin." alt="" coords="2036,151,2222,189"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="2291,111,2180,153,2178,148,2289,106"/>
+<area shape="rect" id="Node000014" href="$integer_8c.html" title="Built&#45;in integer types plugin." alt="" coords="2246,158,2423,182"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="2337,118,2337,157,2332,157,2332,118"/>
+<area shape="rect" id="Node000015" href="$ipv4__address_8c.html" title="ietf&#45;inet&#45;types ipv4&#45;address type plugin." alt="" coords="2447,151,2598,189"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="2378,107,2478,148,2476,152,2376,111"/>
+<area shape="rect" id="Node000016" href="$ipv4__address__no__zone_8c.html" title="ietf&#45;inet&#45;types ipv4&#45;address&#45;no&#45;zone type plugin." alt="" coords="2623,151,2774,189"/>
+<area shape="poly" id="edge15_Node000002_Node000016" title=" " alt="" coords="2398,102,2623,150,2622,155,2396,107"/>
+<area shape="rect" id="Node000017" href="$ipv4__prefix_8c.html" title="ietf&#45;inet&#45;types ipv4&#45;prefix type plugin." alt="" coords="2799,151,2950,189"/>
+<area shape="poly" id="edge16_Node000002_Node000017" title=" " alt="" coords="2398,96,2573,117,2787,148,2799,150,2798,155,2786,153,2572,122,2397,101"/>
+<area shape="rect" id="Node000018" href="$ipv6__address_8c.html" title="ietf&#45;inet&#45;types ipv6&#45;address type plugin." alt="" coords="2975,151,3126,189"/>
+<area shape="poly" id="edge17_Node000002_Node000018" title=" " alt="" coords="2397,93,2645,111,2804,127,2963,148,2975,150,2974,155,2962,153,2803,133,2645,117,2397,98"/>
+<area shape="rect" id="Node000019" href="$ipv6__address__no__zone_8c.html" title="ietf&#45;inet&#45;types ipv6&#45;address&#45;no&#45;zone type plugin." alt="" coords="3151,151,3302,189"/>
+<area shape="poly" id="edge18_Node000002_Node000019" title=" " alt="" coords="2398,91,2716,107,2927,124,3139,148,3151,150,3150,155,3138,153,2926,129,2716,112,2398,96"/>
+<area shape="rect" id="Node000020" href="$ipv6__prefix_8c.html" title="ietf&#45;inet&#45;types ipv6&#45;prefix type plugin." alt="" coords="3327,151,3478,189"/>
+<area shape="poly" id="edge19_Node000002_Node000020" title=" " alt="" coords="2398,90,2558,93,2786,103,3048,120,3315,148,3327,150,3326,155,3314,153,3048,125,2785,108,2558,99,2397,95"/>
+<area shape="rect" id="Node000021" href="$leafref_8c.html" title="Built&#45;in leafref type plugin." alt="" coords="3503,158,3676,182"/>
+<area shape="poly" id="edge20_Node000002_Node000021" title=" " alt="" coords="2398,89,2584,92,2854,101,3169,119,3491,148,3533,154,3532,160,3490,153,3169,124,2854,107,2583,98,2397,95"/>
+<area shape="rect" id="Node000022" href="$node__instanceid_8c.html" title="ietf&#45;netconf&#45;acm node&#45;instance&#45;identifier type plugin." alt="" coords="3700,151,3855,189"/>
+<area shape="poly" id="edge21_Node000002_Node000022" title=" " alt="" coords="2398,88,2611,89,2930,95,3305,113,3499,128,3688,148,3699,150,3699,155,3688,153,3498,133,3305,118,2930,100,2611,94,2398,94"/>
+<area shape="rect" id="Node000023" href="$string_8c.html" title="Built&#45;in string type plugin." alt="" coords="3879,158,4049,182"/>
+<area shape="poly" id="edge22_Node000002_Node000023" title=" " alt="" coords="2398,90,3117,109,3549,126,3730,136,3867,148,3910,154,3909,160,3866,153,3730,142,3549,131,3117,114,2397,96"/>
+<area shape="rect" id="Node000024" href="$union_8c.html" title="Built&#45;in union type plugin." alt="" coords="4073,158,4242,182"/>
+<area shape="poly" id="edge23_Node000002_Node000024" title=" " alt="" coords="2398,90,3206,107,3699,124,3906,135,4062,148,4104,154,4103,160,4061,153,3905,140,3699,129,3206,112,2397,95"/>
+<area shape="rect" id="Node000025" href="$xpath1_80_8c.html" title="ietf&#45;yang&#45;types xpath1.0 type plugin." alt="" coords="4266,158,4454,182"/>
+<area shape="poly" id="edge24_Node000002_Node000025" title=" " alt="" coords="2397,90,3294,106,3848,124,4080,135,4255,148,4301,154,4300,160,4254,153,4080,140,3848,129,3294,112,2397,95"/>
+</map>

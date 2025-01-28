@@ -1,0 +1,48 @@
+<map id="src/plugins_exts/metadata.h" name="src/plugins_exts/metadata.h">
+<area shape="rect" id="Node000001" title="ietf&#45;yang&#45;metadata API" alt="" coords="270,5,455,30"/>
+<area shape="rect" id="Node000002" href="$plugins__exts_8h.html" title="libyang support for YANG extensions implementation." alt="" coords="423,78,529,103"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="383,28,446,67,443,72,380,33"/>
+<area shape="rect" id="Node000007" href="$tree__data_8h.html" title="libyang representation of YANG data trees." alt="" coords="274,223,361,248"/>
+<area shape="poly" id="edge28_Node000001_Node000007" title=" " alt="" coords="354,32,314,81,293,115,277,151,276,167,280,182,297,211,293,213,275,184,271,167,272,150,288,112,309,78,350,29"/>
+<area shape="rect" id="Node000003" href="$log_8h.html" title="Logger manipulation routines and error definitions." alt="" coords="681,369,730,393"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="530,88,569,92,612,102,653,120,687,149,703,173,714,200,723,257,721,311,714,354,709,354,716,311,718,257,709,201,699,176,683,152,651,125,611,107,568,97,529,94"/>
+<area shape="rect" id="Node000006" href="$parser__data_8h.html" title="Data parsers for libyang." alt="" coords="287,151,388,175"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="454,106,375,146,373,141,452,101"/>
+<area shape="poly" id="edge24_Node000002_Node000007" title=" " alt="" coords="469,105,440,139,402,177,350,217,347,212,398,173,436,135,465,101"/>
+<area shape="rect" id="Node000013" href="$tree__schema_8h.html" title="libyang representation of YANG schema trees." alt="" coords="428,296,535,321"/>
+<area shape="poly" id="edge27_Node000002_Node000013" title=" " alt="" coords="479,103,483,280,478,280,474,103"/>
+<area shape="rect" id="Node000016" href="$plugins_8h.html" title="Plugins manipulation." alt="" coords="514,223,587,248"/>
+<area shape="poly" id="edge22_Node000002_Node000016" title=" " alt="" coords="484,102,540,208,535,211,480,104"/>
+<area shape="rect" id="Node000017" href="$tree__edit_8h.html" title="libyang generic macros and functions to modify YANG schema or data trees. Intended for internal use a..." alt="" coords="591,151,673,175"/>
+<area shape="poly" id="edge25_Node000002_Node000017" title=" " alt="" coords="503,101,593,141,591,146,501,106"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="387,441,450,466"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="681,391,466,444,465,438,680,386"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="609,441,676,466"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="697,396,665,431,661,428,693,392"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="337,177,327,209,322,208,332,175"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="362,242,449,262,548,294,617,325,675,358,673,363,615,330,546,298,447,268,360,248"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="320,248,325,313,335,353,352,392,368,413,389,430,385,434,365,417,347,395,330,355,320,313,315,249"/>
+<area shape="poly" id="edge11_Node000007_Node000005" title=" " alt="" coords="326,247,369,315,404,356,446,391,482,411,521,426,594,444,593,449,519,431,480,416,443,396,400,360,365,318,321,250"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="24,296,107,321"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="277,251,122,294,121,289,275,246"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="130,296,198,321"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="293,251,204,292,202,287,291,246"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="222,296,279,321"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="308,250,274,287,270,283,305,247"/>
+<area shape="rect" id="Node000011" href="$tree_8h.html" title="libyang generic macros and functions to work with YANG schema or data trees." alt="" coords="93,369,147,393"/>
+<area shape="poly" id="edge13_Node000007_Node000011" title=" " alt="" coords="274,241,206,247,127,257,57,273,31,285,14,298,9,308,9,317,23,335,49,351,80,364,78,369,47,356,19,339,4,318,4,306,10,294,28,280,55,268,126,251,205,241,274,236"/>
+<area shape="poly" id="edge15_Node000007_Node000013" title=" " alt="" coords="346,246,442,287,439,292,343,251"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="81,441,159,466"/>
+<area shape="poly" id="edge14_Node000011_Node000012" title=" " alt="" coords="123,394,123,426,117,426,117,394"/>
+<area shape="poly" id="edge20_Node000013_Node000003" title=" " alt="" coords="519,319,667,365,665,370,518,324"/>
+<area shape="poly" id="edge17_Node000013_Node000004" title=" " alt="" coords="475,323,447,370,427,427,422,426,442,368,470,320"/>
+<area shape="poly" id="edge19_Node000013_Node000005" title=" " alt="" coords="536,319,580,337,601,350,620,367,636,395,643,425,638,427,631,397,615,370,598,354,578,342,534,324"/>
+<area shape="poly" id="edge21_Node000013_Node000011" title=" " alt="" coords="428,323,163,374,162,369,427,318"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="541,369,606,393"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="498,319,548,357,545,361,495,323"/>
+<area shape="rect" id="Node000015" title=" " alt="" coords="457,369,517,393"/>
+<area shape="poly" id="edge18_Node000013_Node000015" title=" " alt="" coords="485,321,487,353,482,353,480,321"/>
+<area shape="poly" id="edge23_Node000016_Node000003" title=" " alt="" coords="565,246,684,356,680,360,561,250"/>
+<area shape="rect" id="Node000018" title=" " alt="" coords="611,223,674,248"/>
+<area shape="poly" id="edge26_Node000017_Node000018" title=" " alt="" coords="637,175,641,208,636,209,631,176"/>
+</map>

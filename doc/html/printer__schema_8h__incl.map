@@ -1,0 +1,18 @@
+<map id="src/printer_schema.h" name="src/printer_schema.h">
+<area shape="rect" id="Node000001" title="Schema printers for libyang." alt="" coords="18,5,161,30"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="35,223,99,248"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,32,44,82,25,115,11,151,8,163,11,174,23,195,40,212,36,216,19,198,6,176,3,163,6,150,20,113,40,79,77,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="21,151,81,175"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="89,31,61,136,55,135,84,29"/>
+<area shape="rect" id="Node000004" href="$log_8h.html" title="Logger manipulation routines and error definitions." alt="" coords="216,151,265,175"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="112,28,144,49,178,76,205,106,227,136,223,139,201,110,174,80,141,53,109,33"/>
+<area shape="rect" id="Node000006" href="$out_8h.html" title="libyang output structures and functions" alt="" coords="114,78,164,103"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="100,29,124,64,120,67,95,32"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="216,177,110,220,108,215,214,172"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="207,223,274,248"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="243,176,243,208,238,208,238,176"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="126,105,79,143,75,139,123,101"/>
+<area shape="poly" id="edge9_Node000006_Node000004" title=" " alt="" coords="157,101,213,140,210,144,154,105"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="105,151,192,175"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="143,103,147,135,142,135,138,104"/>
+</map>
